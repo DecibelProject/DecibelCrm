@@ -1,0 +1,16 @@
+﻿Cd C:\Users\User\Desktop\Decibel\
+Node Server.js
+ssh -R decibelcrm:80:localhost:3000 serveo.net
+
+autossh -M 0 -R decibelcrm:80:localhost:3000 serveo.net
+
+lt --port 3000 --subdomain decibelcrm
+
+&nbsp;<Img Src = "Images/Tick.svg" Width = "20Px" Height = "20Px"/>
+
+ХочуВернутьТоВремя
+
+S3cUr3D@cib0lc!K3yF0rMidlsrt17n0144
+
+
+GC15B163A
